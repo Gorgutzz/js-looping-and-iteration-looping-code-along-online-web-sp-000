@@ -1,6 +1,15 @@
 // Code your solutions in this file
+function writeCards(names, events){
+  const thankdCards = [];
+  for 
+  
+}
+
+
+
+
 function countdown() {
-  let keepWorking = true;
+  let intger = true;
   while (keepWorking) {
     chooseSeedLocation();
     plantSeed();
