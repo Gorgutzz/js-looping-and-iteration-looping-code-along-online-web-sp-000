@@ -1,8 +1,8 @@
 // Code your solutions in this file
 function writeCards(names, events){
   const thankdCards = [];
-  for 
-  
+  for
+
 }
 
 
