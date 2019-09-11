@@ -7,14 +7,10 @@ function writeCards(names, events){
   return thanksCards;
 }
 
-
-
-function countdown() {
-  let intger = true;
-  while (keepWorking) {
-    chooseSeedLocation();
-    plantSeed();
-    waterSeed();
-    keepWorking = checkForMoreSeeds();
-  }
+function countdown(num)
+{
+    while (num >= 0)
+    {
+        console.log(num--);
+    }
 }
